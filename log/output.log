@@ -1,0 +1,9 @@
+2017-08-20 13:28:57,067  INFO Main:17 - The program is started.
+2017-08-20 13:28:57,069  INFO Main:24 - Hours: 13 locale: ru_RU
+2017-08-20 13:28:57,071  INFO Main:29 - The program is finished.
+2017-08-20 13:31:56,668  INFO Main:17 - The program is started.
+2017-08-20 13:31:56,672  INFO Main:23 - Hours: 13 locale: ru_RU
+2017-08-20 13:31:56,677  INFO Main:28 - The program is finished.
+2017-08-20 13:34:35,667  INFO Main:17 - The program is started.
+2017-08-20 13:34:35,669  INFO Main:23 - Used data:  Hours = 13 locale = ru_RU
+2017-08-20 13:34:35,670  INFO Main:28 - The program is finished.
