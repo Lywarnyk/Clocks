@@ -1,7 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-/log/*.log
-.gitignore
-.idea/vcs.xml
-.idea/workspace.xml
-target/
-
