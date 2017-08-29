@@ -50,31 +50,6 @@ public class ClocksTest {
     }
 
     @Test
-    public void getMessageTestEvening_en_US(){
-        Locale locale = new Locale("en", "US");
-        assertEquals("Good evening, World!", clocks.getMessage(locale, "evening"));
-    }
-
-    @Test
-    public void getMessageTestNight_en_US(){
-        Locale locale = new Locale("en", "US");
-        assertEquals("Good night, World!", clocks.getMessage(locale, "night"));
-    }
-
-
-    @Test
-    public void getMessageTestMorning_ru_RU(){
-        Locale locale = new Locale("ru", "RU");
-        assertEquals("Доброе утро, Мир!", clocks.getMessage(locale, "morning"));
-    }
-
-    @Test
-    public void getMessageTestDay_ru_RU(){
-        Locale locale = new Locale("ru", "RU");
-        assertEquals("Добрый день, Мир!", clocks.getMessage(locale, "day"));
-    }
-
-    @Test
     public void getMessageTestEvening_ru_RU(){
         Locale locale = new Locale("ru", "RU");
         assertEquals("Добрый вечер, Мир!", clocks.getMessage(locale, "evening"));
